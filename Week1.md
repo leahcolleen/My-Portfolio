@@ -1,5 +1,5 @@
 # Week 1
-=======
+
 ## Weekly Goals:
 * Test-drive a simple program using objects and methods
 * Pair using the driver-navigator style
